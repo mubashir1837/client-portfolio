@@ -151,6 +151,9 @@ CSS.g-6,
 
 /* Projects */
 /* Styles for transparent glass-like background */
+.row {
+  margin-bottom: 20px;
+}
 .glass-box {
   background-color: rgba(255, 255, 255, 0.2);
   border-radius: 10px;
