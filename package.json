@@ -1,0 +1,15 @@
+{
+  "name": "awesome-portfolio",
+  "version": "1.0.0",
+  "description": "Welcome to my portfolio website! This website showcases my projects, skills,  projects and experience  as a designer and developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["portfolio, tailwindcss, vercel portfolio"],
+  "author": "Mubashir",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
